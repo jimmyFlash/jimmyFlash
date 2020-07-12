@@ -4,7 +4,7 @@ I am Jamal Safwat
 - 👨‍💻 software engineer
 - Workign mainly on android platform 💚
 - ❤️ Java, Kotlin, ReactJS and Python 
-- 🌱 I’m currently learning to develop web application in ReachJS
+- 🌱 I’m currently learning to develop web application in ReactJS
 - 💬 Ask me about android related stuff, i hope i can be of help 😄
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/jamalsafwat/
 
