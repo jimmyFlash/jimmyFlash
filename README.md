@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am Jamal Safwat 
+- 👨‍💻 software engineer
+- Workign mainly on android platform 💚
+- ❤️ Java, Kotlin, ReactJS and Python 
+- 🌱 I’m currently learning to develop web application in ReachJS
+- 💬 Ask me about android related stuff, i hope i can be of help 😄
+- 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/jamalsafwat/
+
+
+
+
 <!--
 **jimmyFlash/jimmyFlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
