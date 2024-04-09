@@ -1,13 +1,17 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5eWVxdWtnNnNuODhndDhlNXR5YWd4OTZxZ2ZxZ3VweWpqcXA4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lh4VwX86JlQn6QlNsG/giphy.gif" width="100"/>
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/jamalsafwat/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-  </div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5eWVxdWtnNnNuODhndDhlNXR5YWd4OTZxZ2ZxZ3VweWpqcXA4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lh4VwX86JlQn6QlNsG/giphy.gif" width="100"/>
+
+<div id="badges">
+	<a href="https://www.linkedin.com/in/jamalsafwat/">
+	  <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://stackoverflow.com/users/2641657/jamal-s">
+	  <img src="https://img.shields.io/badge/StackOverFlow-orange?style=social&logo=stackoverflow&logoColor=orange&labelColor=white&color=orange" alt="StackOverFlow Badge"/>
+	</a>
+</div>
+</div>
+
 
 
 
